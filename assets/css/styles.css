@@ -11,3 +11,15 @@ h1{
 .brand-logo{
 	margin-left: 20px;
 }
+
+
+/*About Page Style----------------------------------------*/
+
+
+p{
+	text-align: justify;
+}
+
+div{
+	width: 90%;
+}
