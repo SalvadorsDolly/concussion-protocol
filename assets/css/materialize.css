@@ -2004,7 +2004,7 @@
 }
 
 .blue-grey.darken-1 {
-  background-color: #546e7a !important;
+  background-color: #2196f3 !important;
 }
 
 .blue-grey-text.text-darken-1 {
@@ -3422,7 +3422,7 @@ input[type=range] + .thumb {
 
 @media only screen and (min-width: 993px) {
   .container {
-    width: 70%;
+    width: 80%;
   }
 }
 
