@@ -14,12 +14,21 @@ h1{
 
 
 /*About Page Style----------------------------------------*/
-p{
+.about-title{
+	margin-top: 75px;
+
+}
+
+.about-text{
 	text-align: justify;
 }
 
 .about-crn{
 	margin-top: 50px;
+}
+
+.cards-title{
+	margin-bottom: 50px;
 }
 
 .cards{
@@ -28,6 +37,11 @@ p{
 
 .partner-carousel{
 	margin-top: 100px;
+}
+
+.form-title{
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .form-message{
