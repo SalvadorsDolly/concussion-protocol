@@ -1,3 +1,4 @@
+/*Home Page Style----------------------------------------*/
 h1{
 	color: white;
 	text-align: center;
@@ -11,8 +12,43 @@ h1{
 .brand-logo{
 	margin-left: 20px;
 }
+
 .text-position{
 	float:right;
 	width:50%;
+}
+
+/*About Page Style----------------------------------------*/
+.about-title{
+	margin-top: 75px;
+}
+
+.about-text{
+	text-align: justify;
+}
+
+.about-crn{
+	margin-top: 50px;
+}
+
+.cards-title{
+	margin-bottom: 50px;
+}
+
+.cards{
+	margin-top: 100px;
+}
+
+.partner-carousel{
+	margin-top: 100px;
+}
+
+.form-title{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.form-message{
+	margin-bottom: 100px;
 }
 
