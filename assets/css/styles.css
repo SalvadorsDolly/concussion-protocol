@@ -1,3 +1,4 @@
+/*Home Page Style----------------------------------------*/
 h1{
 	color: white;
 	text-align: center;
@@ -11,7 +12,6 @@ h1{
 .brand-logo{
 	margin-left: 20px;
 }
-
 
 /*About Page Style----------------------------------------*/
 .about-title{
