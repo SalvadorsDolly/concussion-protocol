@@ -13,10 +13,14 @@ h1{
 	margin-left: 20px;
 }
 
+.text-position{
+	float:right;
+	width:50%;
+}
+
 /*About Page Style----------------------------------------*/
 .about-title{
 	margin-top: 75px;
-
 }
 
 .about-text{
